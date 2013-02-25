@@ -1,2 +1,5 @@
 this is text2.txt
+add a second line
+This is a third line.
+Fourth line.
 
